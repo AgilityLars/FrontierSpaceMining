@@ -1,0 +1,4 @@
+sceneSetups:
+- path: FrontierSpaceMining/Assets/Main.unity
+  isLoaded: 1
+  isActive: 1
